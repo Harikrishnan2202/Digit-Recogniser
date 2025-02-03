@@ -56,7 +56,7 @@ To configure and deploy the Digit Recognizer application, follow these step-by-s
 
 1. Clone the project repository:
    ```markdown
-   git clone https://github.com/kavicastelo/digit_recognizer.git
+   git clone https://github.com/Harikrishnan2202/Digit-Recogniser.git
    ```
 2. Navigate to the project directory:
    ```markdown
@@ -104,10 +104,6 @@ To configure and deploy the Digit Recognizer application, follow these step-by-s
 7. Test the application:
    Upload handwritten digit images through the web interface and verify that the application accurately recognizes and
    displays the digits.
-
-# YouTube Overview
-[![exe preview](https://img.youtube.com/vi/Z8w_emoGcSk/3.jpg)](https://www.youtube.com/watch?v=Z8w_emoGcSk)
-[![web preview](https://img.youtube.com/vi/QaiOVPZ-KC4/2.jpg)](https://www.youtube.com/watch?v=QaiOVPZ-KC4)
 
 ---
 
